@@ -93,6 +93,9 @@ sysinfo.txt
 *.compute
 *.tlh
 *.scenetemplate
+*.obj
+*.xml
+
 # Crashlytics generated file
 crashlytics-build.properties
 
