@@ -51,6 +51,8 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.md.meta
+*.json.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -60,7 +62,37 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
-
+*.tgz
+*.meta
+*.dylib
+*.pbxproj
+*.xcworkspacedata
+*.plist
+*.md
+*.shadergraph
+*.controller
+*.anim
+*.mat
+*.unity
+*.json
+*.lighting
+*.asset
+*.prefab
+*.hlsl
+*.asmdef
+*.cs
+*.txt
+*.shader
+*.template
+*.bytes
+*.shadersubgraph
+*.uxml
+*.uss
+*.yml
+*.npmignore
+*.compute
+*.tlh
+*.scenetemplate
 # Crashlytics generated file
 crashlytics-build.properties
 
