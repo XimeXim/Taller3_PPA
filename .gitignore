@@ -80,6 +80,7 @@ sysinfo.txt
 *.prefab
 *.hlsl
 *.asmdef
+*.txt
 *.shader
 *.template
 *.bytes
@@ -103,3 +104,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Taller3-Pokedex/Temp/FSTimeGet-3c1155e4d0ae04c45aedf486995a9d8e
+Taller3-Pokedex/Temp/UnityLockfile
