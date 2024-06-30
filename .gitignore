@@ -75,7 +75,7 @@ sysinfo.txt
 *.mat
 *.unity
 *.json
-*.lighting
+
 
 
 # Crashlytics generated file
