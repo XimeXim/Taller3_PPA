@@ -80,8 +80,6 @@ sysinfo.txt
 *.prefab
 *.hlsl
 *.asmdef
-*.cs
-*.txt
 *.shader
 *.template
 *.bytes
