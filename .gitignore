@@ -76,24 +76,7 @@ sysinfo.txt
 *.unity
 *.json
 *.lighting
-*.asset
-*.prefab
-*.hlsl
-*.asmdef
-*.txt
-*.shader
-*.template
-*.bytes
-*.shadersubgraph
-*.uxml
-*.uss
-*.yml
-*.npmignore
-*.compute
-*.tlh
-*.scenetemplate
-*.obj
-*.xml
+
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -106,3 +89,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Taller3-Pokedex/Temp/FSTimeGet-3c1155e4d0ae04c45aedf486995a9d8e
 Taller3-Pokedex/Temp/UnityLockfile
+Taller3-Pokedex/Library/ArtifactDB
+Taller3-Pokedex/Library/PackageCache/
