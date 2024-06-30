@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="dragonite" size="1.000000 1.000000" />
+    <ImageTarget name="garchomp" size="1.000000 1.000000" />
+    <ImageTarget name="umbreon" size="1.000000 1.000000" />
+    <ImageTarget name="snorlax" size="1.000000 0.902542" />
+    <ImageTarget name="charizard" size="1.000000 1.000000" />
+    <ImageTarget name="arcanine" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
