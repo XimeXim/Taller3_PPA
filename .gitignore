@@ -65,16 +65,7 @@ sysinfo.txt
 *.tgz
 *.meta
 *.dylib
-*.pbxproj
-*.xcworkspacedata
-*.plist
-*.md
-*.shadergraph
-*.controller
-*.anim
-*.mat
-*.unity
-*.json
+
 
 
 
